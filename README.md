@@ -39,9 +39,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Some challenges that I encountered while building the app were tryinf to get the trivia questions and the buttons correct but it was not as hard as the last project.
-
 Describe any challenges encountered while building the app.
+
+Some challenges that I encountered while building the app were tryinf to get the trivia questions and the buttons correct but it was not as hard as the last project.
 
 ## License
 
